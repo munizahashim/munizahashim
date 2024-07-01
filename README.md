@@ -1,4 +1,4 @@
-![logo](https://github.com/munizahashim/munizahashim/blob/main/Yellow%20Geometric%20Modern%20Professional%20Manager%20LinkedIn%20Banner.gif)
+![logo](https://github.com/munizahashim/munizahashim/blob/main/Yellow%20Geometric%20Modern%20Professional%20Manager%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Muniza Hashim</h1>
 <h3 align="center">A passionate Data Scientist from Pakistan</h3>
 
